@@ -1,1 +1,2 @@
-day la thuoc week 1 cua main ma thoi
+đây là file week1.txt
+thuoc branch week1 main a
